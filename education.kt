@@ -40,7 +40,7 @@ fun main() {
 
 
 
-
+//Это тут зачем?
         }
 
 private operator fun Any.invoke(value: Any) {
